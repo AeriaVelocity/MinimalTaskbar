@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C62B4176-131D-414A-9598-FF62456EE6CA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>MinimalTaskbar</RootNamespace>
-    <AssemblyName>MinimalTaskbar</AssemblyName>
+    <RootNamespace>minitask</RootNamespace>
+    <AssemblyName>minitask</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -64,6 +64,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
