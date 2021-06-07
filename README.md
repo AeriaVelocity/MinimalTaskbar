@@ -3,8 +3,7 @@ A minimal taskbar replacement for Windows. It can run Command Prompt, run and ki
 
 ![minitask](https://github.com/That1M8Head/MinimalTaskbar/raw/main/minitask.png)
 
-### Usage
-Run `minitask.exe`. That is it.
+Get the latest version [here](https://github.com/That1M8Head/MinimalTaskbar/releases).
 
-### What the hell, .NET?!
+### What the hell, why are you using .NET?!
 Okay, so I don't know how to GUI in C yet, give me a break.
